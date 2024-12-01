@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/ygYqvUA.jpeg/800x300" height="40%" width="60%" alt="Help Desk Ticket Lifecycle"/>
 </p>
 
-# Help Desk Ticket Lifecycle
+# Jira: Help Desk Ticket Lifecycle
 
 ## Prerequisites and Installation
 
