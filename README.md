@@ -40,9 +40,9 @@ This tutorial outlines the prerequisites and installation steps for understandin
 
 &nbsp;
 
-![Ticket Creation](https://via.placeholder.com/600x300)
-![Ticket Creation](https://via.placeholder.com/600x300)
-![Ticket Creation](https://via.placeholder.com/600x300)
+![Ticket Creation](https://i.imgur.com/UL6Sx75.png/600x300)
+![Ticket Creation](https://i.imgur.com/pftbBIO.png/600x300)
+![Ticket Creation](![alt text](image.png)/600x300)
 
 
 
@@ -57,9 +57,9 @@ This tutorial outlines the prerequisites and installation steps for understandin
 
 &nbsp;
 
-![Ticket Triage](https://via.placeholder.com/600x300)
-![Ticket Triage](https://via.placeholder.com/600x300)
-![Ticket Triage](https://via.placeholder.com/600x300)
+![Ticket Triage](https://i.imgur.com/gmOCszW.png/600x300)
+![Ticket Triage](https://i.imgur.com/rqwlVsb.png/600x300)
+![Ticket Triage](https://i.imgur.com/aEb0BlA.png/600x300)
 
 ### Step 3: Ticket Investigation & Resolution
 1. **Diagnosis:**  
@@ -71,9 +71,10 @@ This tutorial outlines the prerequisites and installation steps for understandin
 
 &nbsp;
 
-![Ticket Resolution](https://via.placeholder.com/600x300)
-![Ticket Resolution](https://via.placeholder.com/600x300)
-![Ticket Resolution](https://via.placeholder.com/600x300)
+![Ticket Resolution](https://i.imgur.com/UZ33acR.png/600x300)
+![Ticket Resolution](https://i.imgur.com/JZyDVci.png/600x300)
+Ticket Resloved Or Can Be Reopened
+![Ticket Resolution](https://i.imgur.com/AXB3sXs.png/600x300)
 
 
 
@@ -85,7 +86,7 @@ This tutorial outlines the prerequisites and installation steps for understandin
 
 &nbsp;
 
-![Ticket Testing](https://via.placeholder.com/600x300)
+![Ticket Testing](https://i.imgur.com/hdUNHw8.png/600x300)
 
 
 
