@@ -103,6 +103,6 @@ A: The issue may be reopened, and additional troubleshooting steps will be taken
 ---
 
 ## Conclusion
-🎉 Congratulations! You’ve now gained an understanding of the first four crucial steps in the help desk ticket lifecycle. From ticket creation to resolution, each phase is essential to ensuring timely and effective support.🎉
+🎉 Congratulations! You’ve now gained an understanding of the first few crucial steps in the help desk ticket lifecycle.From ticket creation to resolution.🎉
 
 
