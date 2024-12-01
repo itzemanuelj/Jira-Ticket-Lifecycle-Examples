@@ -42,8 +42,6 @@ This tutorial outlines the prerequisites and installation steps for understandin
 
 ![Ticket Creation](https://i.imgur.com/UL6Sx75.png/600x300)
 ![Ticket Creation](https://i.imgur.com/pftbBIO.png/600x300)
-![Ticket Creation](![alt text](image.png)/600x300)
-
 
 
 ### Step 2: Ticket Triage
